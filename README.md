@@ -36,14 +36,7 @@ Computer Science student | Machine Learning &amp; Software Development | Open to
 
 <p align="left">
   <a href="https://www.linkedin.com/in/benjamin-suljic-37a6b0344"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:benjamin005suljic@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="[mailto:benjamin005suljic@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=benjamin005suljic@gmail.com)"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=BenjaminkoS&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
-
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/BenjaminkoS">BenjaminkoS</a></i></p>
